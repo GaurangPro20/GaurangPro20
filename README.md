@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GaurangPro20
 - 👀 I’m interested in Astrophotography
 - 🌱 I’m currently learning Minecraft Plugins and Coding
-- 📫 How to reach me: Msg me on Discord @gaurangxjsr
+- 📫 How to reach me: Msg me on Discord @real_gaurang
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a self taught Mid Minecraft Server Developer (Worked at TrashMCPE)
 

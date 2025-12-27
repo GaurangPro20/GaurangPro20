@@ -3,9 +3,4 @@
 - 🌱 I’m currently learning Minecraft Plugins and Coding
 - 📫 How to reach me: Msg me on Discord @real_gaurang
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a self taught Mid Minecraft Server Developer (Worked at TrashMCPE)
-
-<!---
-GaurangPro20/GaurangPro20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ Fun fact: I'm a self taught Mid Minecraft Server Developer
